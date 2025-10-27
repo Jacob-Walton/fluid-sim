@@ -1,0 +1,13 @@
+.{
+    .name = .fluid_dynamics,
+    .version = "0.0.1",
+    .dependencies = .{
+        .raylib_zig = .{
+            .url = "git+https://github.com/raylib-zig/raylib-zig?ref=devel#6ecc0455eb43a25bb225615f0727828c23e35aa1",
+            .hash = "raylib_zig-5.6.0-dev-KE8REIBLBQCuKZP2YipUiUcKrjE_JSLYMwsv3yJLgBGX",
+        },
+    },
+    .minimum_zig_version = "0.15.1",
+    .paths = .{""},
+    .fingerprint = 0x611166f420954d25,
+}

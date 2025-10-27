@@ -15,4 +15,4 @@ $ zig build run
 
 ## Fonts and Licensing
 
-The project includes `src/fonts/Ubuntu-Light.ttf`, which is licensed under the [Ubuntu Font License](https://canonical.com/legal/font-licence). Please ensure compliance with the license when using or distributing this font.
+The project includes `src/fonts/Ubuntu-Light.ttf`, which is licensed under the [Ubuntu Font License](https://canonical.com/legal/font-licence).
